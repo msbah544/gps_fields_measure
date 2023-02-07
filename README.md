@@ -1,4 +1,4 @@
-# gps_fields_measure
+
 <body>
     <h1>GPS FIELDS MEASURE</h1>
     <p>Fields/Land measurement app --Area, Distance, Perimiter, e.t.c...</p>
