@@ -1,8 +1,15 @@
-
 <body>
     <h1>GPS FIELDS MEASURE</h1>
     <p>Fields/Land measurement app --Area, Distance, Perimiter, e.t.c...</p>
-    <h3>Available Scripts</h3>
+    <b
+      ><h2>NOTE</h2>
+      <p>
+        This project was created using bare
+        <code>react-native cli</code> project
+      </p>
+      <p style="color: red">This is not an expo managed project</p></b
+    >
+    <h2>Available Scripts</h2>
     <p>After cloning the repo, navigate to the project directory and run:</p>
     <h4><code>npm install</code></h4>
     <p>This installs the project's dependencies/packages/node_modules</p>
