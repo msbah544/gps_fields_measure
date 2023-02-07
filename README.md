@@ -1,9 +1,18 @@
 # gps_fields_measure
-Fields/Land measurement app -Area, Distance, Perimiter, e.t.c...
-
-<important>Note that this is not an expo managed project</important>
-Once repo is cloned, open terminal and navigate to the project's root folder.
-Type <code>npm install</code> to install required dependencies and packages.
-Once packages are installed, start the bundler #metro by running <code>npx react-native start</code>.
-Once the bundler is up and running, open a new terminal window, navigate to the project's root folder and run <code>npx react-native run-android</code>
-
+<body>
+    <h1>GPS FIELDS MEASURE</h1>
+    <p>Fields/Land measurement app --Area, Distance, Perimiter, e.t.c...</p>
+    <h3>Available Scripts</h3>
+    <p>After cloning the repo, navigate to the project directory and run:</p>
+    <h4><code>npm install</code></h4>
+    <p>This installs the project's dependencies/packages/node_modules</p>
+    <h4><code>npx react-native start</code></h4>
+    <p>
+      This command spins up the dev server or starts the package bundler(metro)
+    </p>
+    <h4><code>npx react-native run-android</code></h4>
+    <p>
+      Once the bundler is up and running, open up a new terminal window and run
+      the command above to install the app(developer mode)
+    </p>
+  </body>
